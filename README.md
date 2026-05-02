@@ -1,5 +1,4 @@
 # LightGCN+ Book Recommendation System
-### STAT 542 — Statistical Learning | Spring 2026 | University of Illinois Urbana-Champaign
 
 ## Overview
 
